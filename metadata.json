@@ -1,0 +1,6 @@
+{
+  "name": "Coding Coach AI",
+  "description": "An interactive AI-powered coding coach to guide beginners through programming concepts step-by-step using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
